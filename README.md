@@ -36,4 +36,4 @@ SOFTWARE.
 
 ## Authors Info
 Slack Profile: [KelvinKaranja](kelvin.irungu@student.moringaschool.com)
-Slack Profile: [SheinaHamisi] (sheina.hamisi@student.moringaschool.com)
+Slack Profile: [SheinaHamisi](sheina.hamisi@student.moringaschool.com)
